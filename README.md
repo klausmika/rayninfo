@@ -4,11 +4,5 @@
 <div align="center">
  <a href="(https://discord.com/users/394984398778531840" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/394984398778531840"></a>
 </div>
-
-<h3>My Personal accounts:</h3>
-<p align="left">
-   <a href="https://discord.com/users/394984398778531840" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://github.com/raynlabel" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>  
-
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/394984398778531840
+                            )](https://discord.com/users/394984398778531840)
