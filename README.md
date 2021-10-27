@@ -4,5 +4,3 @@
 <div align="center">
  <a href="(https://discord.com/users/394984398778531840" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/394984398778531840"></a>
 </div>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/394984398778531840
-                            )](https://discord.com/users/394984398778531840)
